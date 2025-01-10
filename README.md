@@ -1,4 +1,6 @@
-💫Presenting another Power Bi guided project in Hospitality Domain from Codebasics.
+![Hospitality_Project_Powerbi](https://github.com/ubaidzia1086/Hospitality_Project_Powerbi/blob/main/Hospitiliy%20data-analyst-project.jpg?raw=true)
+
+💫 Presenting another Power Bi guided project in Hospitality Domain from Codebasics.
 
 **Project Title :**    Insights to the Revenue Team in the Hospitality Domain
 
